@@ -1,0 +1,19 @@
+body {
+	background-color: #444444;
+	font-family: Arial;
+	color: #eeeeee;
+	text-align: center;
+}
+
+h1 {
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: normal;
+	color: #15cb97;
+	font-size: 50px;
+}
+
+a {
+	color: #15cb97;
+	text-decoration: none;
+}
